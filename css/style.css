@@ -33,7 +33,7 @@ html{
 }
 body{
   font: 16px var(--ff); 
-  cursor: url('../images/cursor.png') 4 4,auto;
+  cursor: url('/images/cursor.png') 4 4,auto;
 }
 main{
   background-color: var(--bg-color-white);
